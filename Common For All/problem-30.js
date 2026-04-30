@@ -1,5 +1,3 @@
-use manufacturingDB
-
 db.defects.insertMany([
   {
     defect_id: 3001,
